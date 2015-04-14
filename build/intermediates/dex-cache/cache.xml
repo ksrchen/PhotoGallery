@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ksrchen/AndroidStudioProjects/PhotoGallery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/ksrchen/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-bce19f34402c5712f259710f8f140afc7b2b7ef2.jar" />
+    </item>
+    <item
+        jar="/Users/ksrchen/AndroidStudioProjects/PhotoGallery/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/ksrchen/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/classes-4ed914b23d625806c2804c8073673058991181bf.jar" />
+    </item>
+    <item
+        jar="/Users/ksrchen/Downloads/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/ksrchen/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-1dd84727fdfe78be9ac0be88cd39aa56912be9bd.jar" />
+    </item>
+
+</items>

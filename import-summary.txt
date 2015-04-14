@@ -1,0 +1,98 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/uiDesigner.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* PhotoGallery.iml
+* ant.properties
+* build.xml
+* out/
+* out/production/
+* out/production/PhotoGallery/
+* out/production/PhotoGallery/PhotoGallery.apk
+* out/production/PhotoGallery/PhotoGallery.unaligned.apk
+* out/production/PhotoGallery/com/
+* out/production/PhotoGallery/com/bignerdranch/
+* out/production/PhotoGallery/com/bignerdranch/android/
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/BuildConfig.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/FlickrFetchr.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/GalleryItem.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/Manifest$permission.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/Manifest.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/NotificationReciever.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryActivity.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryFragment$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryFragment$2.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryFragment$FetchItemsTask.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryFragment$GalleryItemAdapter.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryFragment.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryPageActivity$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryPageActivity.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryPageFragment$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryPageFragment$ImageFetcher.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoGalleryPageFragment.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoPageActivity.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoPageFragment$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoPageFragment$2.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PhotoPageFragment.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/PollService.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$attr.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$drawable.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$id.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$layout.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$menu.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$string.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R$xml.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/R.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/SingleFragmentActivity.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/StartupReciever.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/ThumbnailDownloader$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/ThumbnailDownloader$2.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/ThumbnailDownloader$Listener.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/ThumbnailDownloader.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/VisibleFragment$1.class
+* out/production/PhotoGallery/com/bignerdranch/android/PhotoGallery/VisibleFragment.class
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
